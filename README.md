@@ -19,3 +19,5 @@ Looking at the function, one can easily see that for big initial values, the fun
 But if we actually plot it, what we get out isn't any nice plot. Instead, we get an amazingly complex and fractured plot. This is the Mandelbrot set.
 
 You can zoom forever into the plot, and it will present you with an unending complex shape. One can also calculate it's so-called Hausdorff dimension, which yields a noninteger number. Thus, it's a fractal.
+
+![image](https://user-images.githubusercontent.com/56733438/160474613-1fb914f4-6853-4cf3-9508-a16d5919855f.png)
